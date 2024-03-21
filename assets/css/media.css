@@ -1,0 +1,55 @@
+@media (max-width: 991px) {
+  .cloud-p h1 {font-size: 30px;}
+  .comp-logo {width: 1px;}
+  .hero-sectio h1 {font-size: 34px;}
+  .hero-inner p {font-size: 20px;}
+  .cart h5 {font-size: 1rem;}
+  .cart {margin: 20px 0px;}
+  .cart p {font-size: 12px;}
+  .contact {padding: 10px 0px;}
+  .comp-logo {width: 16%;}
+  .visa{max-width: 34%;}
+  .hero-inner {width: 100%;}
+  .btn{font-size: 10px;}
+}
+@media (max-width: 767px) {
+  .form-control{height: 35px; font-size: 12px;}
+  .hero-sectio h1 {font-size: 25px;}
+  .comp-logo {width: 16%;}
+  .hero-sectio .comman-spacing p {font-size: 10px;}
+  .hero-inner p {font-size: 12px;}
+  .technology img{width: 25%;}
+  .logos h5{font-size: 20px;}
+  .hero-inner {width: 100%;}
+  .logos p{font-size: 15px;}
+  .cloud-p h1 { font-size: 20px; padding: 0px;}
+  .products h1:nth-child(1){font-size: 30px; padding: 10px 0px;}
+  .comman-spacing{padding: 10px 0px;} 
+  .visa{width: 42%;}
+  .copyright{text-align:center;}
+  .contact h1{font-size: 25px; padding-top: 20px;}
+  .hero-inners h1{font-size: 30px;}
+  .product1 p{text-align: justify;}
+  .cloud-Budget h1{padding: 10px 0px;}
+  .cloud-Budget p{font-size: 13px; padding: 0px;}
+  .cart h5{padding: 5px 0px;}
+  .contact {padding: 32px 0px;}
+  .list{font-size: 7px; margin: 10px 0px;}
+  .footer h5{font-size: 16px; padding: 28px 0px 0px 0px;}
+  .footer ul ,a ,address  {font-size: 12px;}
+  .info p{margin: 0px;}
+  .visa {width: 100%; max-width: 66%;}
+}
+@media (max-width: 575px){
+  .large-spacing {padding: 30px 0px;}
+  .navbar { padding: 8px;}
+  .cart-spacing {padding: 0px 10px;}
+  .cart h5 {padding: 5px 10px;}
+  .font-spacing {padding: 5px 0px;}
+  .contact h1 {padding-top: 0px;}
+  .form {margin: 20px 0px; padding: 10px 11px}
+  .copyright {text-align: center;padding: 11px;font-size: 11px;}
+  .footer h5 {padding: 17px 0px 0px 0px;}
+  .comp-logo {width: 100%;max-width: 34%;}
+  .visa {width: 100%;max-width: 47%;}
+}
